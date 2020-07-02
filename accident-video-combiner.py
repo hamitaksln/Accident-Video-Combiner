@@ -5,7 +5,7 @@ import shutil
 videoPaths = []
 videos = []
 
-date = "202003"
+date = "202006"
 url = "http://www.trafik.gov.tr/kurumlar/trafik.gov.tr/09-Video/KGYS/"+date+"/"
 savePath = "D:\\Python\\VideoEditing\\accidents\\"
 
@@ -13,7 +13,7 @@ def downloadVideos():
     global videoPaths
     if not os.path.exists(savePath):
         os.mkdir(savePath)
-    for i in range(1,4):
+    for i in range(1,30):
         name = str(i)+".mp4"
         path = savePath+name
         videoPaths.append(path)
