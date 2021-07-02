@@ -3,7 +3,7 @@ This basic python script downloads every accident in that specific month from Tu
 
 <div align="center">
   <h2>Example Video</h2>
-<a href="https://youtu.be/XvOgmZfs7As" target="_blank"><img src="https://github.com/hamitaksln/Accident-Video-Combiner/blob/master/thumbnailOcak.jpg" 
+<a href="https://www.youtube.com/watch?v=VGvQIsBtmFc" target="_blank"><img src="https://i.ibb.co/wYm4Frk/thumbnail-haziran-2021.png" 
 width="720" height="405"
 alt="Accident Example Video" /></a>
   </div>
